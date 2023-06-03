@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="51" viewBox="0 0 53 53" fill="none" width="51">
+<circle cx="26.5" cy="26.5" r="25.3136" fill="#112031" stroke="black" stroke-width="2.37288"/>
+<mask id="mask0_64_2837" style="mask-type:alpha;" maskUnits="userSpaceOnUse" x="1" y="1" width="51" height="51">
+<circle cx="26.4998" cy="26.5" r="24.7034" fill="white"/>
+</mask>
+<g mask="url(#mask0_64_2837)">
+<line x1="30.3899" y1="0.449219" x2="30.3899" y2="52.5509" stroke="#F38E8E" stroke-width="0.59322"/>
+<rect x="28.438" y="17.074" width="3.63014" height="20.9196" fill="#F38E8E"/>
+<line x1="46.1096" y1="9.43225" x2="46.1096" y2="43.5678" stroke="#F38E8E" stroke-width="0.59322"/>
+<rect x="44.1582" y="15.2773" width="3.63014" height="7.24088" fill="#F38E8E"/>
+<line x1="7.03391" y1="9.43225" x2="7.03391" y2="43.5678" stroke="#F38E8E" stroke-width="0.59322"/>
+<rect x="5.08203" y="23.3622" width="3.63014" height="7.24088" fill="#F38E8E"/>
+<line x1="15.1189" y1="2.69495" x2="15.1189" y2="49.856" stroke="#6FE0BB" stroke-width="0.59322"/>
+<rect x="13.167" y="9.43848" width="3.63014" height="18.9359" fill="#6FE0BB"/>
+<line x1="38.0256" y1="2.69495" x2="38.0256" y2="49.856" stroke="#6FE0BB" stroke-width="0.59322"/>
+<rect x="36.0737" y="12.1333" width="3.63014" height="30.9915" fill="#6FE0BB"/>
+<line x1="22.7546" y1="0.898315" x2="22.7546" y2="52.1017" stroke="#6FE0BB" stroke-width="0.59322"/>
+<rect x="20.8027" y="20.2385" width="3.63014" height="13.5767" fill="#6FE0BB"/>
+</g>
+
+</svg>

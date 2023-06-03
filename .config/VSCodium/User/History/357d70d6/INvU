@@ -1,0 +1,23 @@
+
+#moving your personal files and folders from /personal to ~
+#alias personalload='cp -Rf /personal/. ~'
+
+#moving your personal files and folders from ~ to /personal
+alias personalsave='cp -Rf ~/. /personal'
+
+# Changed permission of the ./personal folder
+# sudo chmod 777 ../../personal
+# Copy the files from .config to ./personal folder
+# cp -Rf ~/. /personal
+
+copy_spec()  {
+    file_list=("/home/arco/.bashrc" "/home/arco/.bashrc-personal")
+    
+    for file in ${file_list}: do
+        echo "file"
+    done
+
+    # sudo pacman cp $search | grep "Required" | sed -e "s/Required By     : //g" | sed -e "s/  /\n/g"
+    }
+
+alias copyspec="copy_spec"

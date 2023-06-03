@@ -1,0 +1,13 @@
+2023/06/03-06:04:20.046 52d Reusing MANIFEST /home/arco/.config/google-chrome/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/03-06:04:20.046 52d Recovering log #6
+2023/06/03-06:04:20.055 52d Reusing old log /home/arco/.config/google-chrome/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/000006.log 
+2023/06/03-06:04:23.195 52d Level-0 table #10: started
+2023/06/03-06:04:23.236 52d Level-0 table #10: 4737 bytes OK
+2023/06/03-06:04:23.265 52d Delete type=0 #6
+2023/06/03-06:04:23.265 52d Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 574 : 1
+2023/06/03-06:04:23.265 52d Compacting 1@0 + 1@1 files
+2023/06/03-06:04:23.281 52d Generated table #11@0: 193 keys, 3510 bytes
+2023/06/03-06:04:23.281 52d Compacted 1@0 + 1@1 files => 3510 bytes
+2023/06/03-06:04:23.357 52d compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/03-06:04:23.358 52d Delete type=2 #10
+2023/06/03-06:04:23.358 52d Manual compaction at level-0 from '\x00\x05\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 574 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,6 @@
+2023/06/02-17:34:53.170 610 Reusing MANIFEST /home/arco/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/02-17:34:53.170 610 Recovering log #3
+2023/06/02-17:34:53.174 610 Reusing old log /home/arco/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2023/06/02-17:39:37.295 611 Level-0 table #5: started
+2023/06/02-17:39:37.407 611 Level-0 table #5: 1177090 bytes OK
+2023/06/02-17:39:37.424 611 Delete type=0 #3

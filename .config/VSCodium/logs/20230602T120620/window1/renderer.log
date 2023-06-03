@@ -1,0 +1,5 @@
+2023-06-02 12:06:23.477 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-06-02 12:06:23.539 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/etc/pacman.d/arcolinux-mirrorlist","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-06-02 12:06:24.269 [info] Started initializing default profile extensions in extensions installation folder. file:///home/arco/.vscode-oss/extensions
+2023-06-02 12:06:24.604 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/arco/.vscode-oss/extensions
+2023-06-02 12:06:27.565 [info] [perf] Render performance baseline is 58ms

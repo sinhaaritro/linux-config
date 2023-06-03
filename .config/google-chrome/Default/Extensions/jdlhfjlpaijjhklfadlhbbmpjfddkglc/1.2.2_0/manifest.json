@@ -1,0 +1,25 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "client.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "A browser extension that lets you display the basic typographic styles of a text by right-clicking it.",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAus0xpLcrLcuNOEzvPApoccJafWCDyGDfUnogWjqkgUi3lqpwwQCHPT07mPQ5QqNZYKNpiFtgeIpQSd3N9ZTEPR3MzxKHTAkQQTi/JgKBBl+JqZFoo7ebDbQ7DLpk0F0lG4jH3q2BMLUy1HeYfiWx04kPiy6IHhk6el/JET0ybkqIKpCwhlVF9cvPcfxwHBKkpfTqwIQ+5WrgxiPCg3ScSd0TtTBIaZKdwpZRPz5II7g2+0IRngI1fykKMOvBsXb0YFpo1+be/lIJKo8LkfaMFl0wayiW43o9E2WuAISt3zUYOcVnfslTH0fpJE0hTrnJ52ZDNQ6artiS0tKhL9niMwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "45",
+   "name": "Fontanello",
+   "permissions": [ "activeTab", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.2"
+}

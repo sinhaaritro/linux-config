@@ -1,0 +1,11 @@
+2023/06/02-16:46:02.151 3 Creating DB /home/arco/.config/google-chrome/Default/Local Storage/leveldb since it was missing.
+2023/06/02-16:46:02.754 3 Reusing MANIFEST /home/arco/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/02-16:54:35.461 5 Level-0 table #5: started
+2023/06/02-16:54:35.478 5 Level-0 table #5: 63511 bytes OK
+2023/06/02-16:54:35.495 5 Delete type=0 #3
+2023/06/02-17:15:35.061 5 Level-0 table #7: started
+2023/06/02-17:15:35.080 5 Level-0 table #7: 51647 bytes OK
+2023/06/02-17:15:35.098 5 Delete type=0 #4
+2023/06/02-17:29:58.229 5 Level-0 table #9: started
+2023/06/02-17:29:58.241 5 Level-0 table #9: 50528 bytes OK
+2023/06/02-17:29:58.273 5 Delete type=0 #6

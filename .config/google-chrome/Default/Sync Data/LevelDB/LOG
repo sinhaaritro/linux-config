@@ -1,0 +1,33 @@
+2023/06/03-06:04:16.891 630 Reusing MANIFEST /home/arco/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/06/03-06:04:16.943 630 Recovering log #6
+2023/06/03-06:04:17.023 630 Reusing old log /home/arco/.config/google-chrome/Default/Sync Data/LevelDB/000006.log 
+2023/06/03-08:16:58.544 52d Level-0 table #10: started
+2023/06/03-08:16:58.570 52d Level-0 table #10: 120129 bytes OK
+2023/06/03-08:16:58.585 52d Delete type=0 #6
+2023/06/03-09:40:42.002 52e Level-0 table #12: started
+2023/06/03-09:40:42.019 52e Level-0 table #12: 109442 bytes OK
+2023/06/03-09:40:42.042 52e Delete type=0 #9
+2023/06/03-10:25:49.092 52e Level-0 table #14: started
+2023/06/03-10:25:49.114 52e Level-0 table #14: 141505 bytes OK
+2023/06/03-10:25:49.168 52e Delete type=0 #11
+2023/06/03-11:38:04.954 52d Level-0 table #16: started
+2023/06/03-11:38:04.971 52d Level-0 table #16: 119037 bytes OK
+2023/06/03-11:38:04.997 52d Delete type=0 #13
+2023/06/03-11:38:04.997 52d Compacting 4@0 + 1@1 files
+2023/06/03-11:38:05.010 52d Generated table #17@0: 263 keys, 51738 bytes
+2023/06/03-11:38:05.010 52d Compacted 4@0 + 1@1 files => 51738 bytes
+2023/06/03-11:38:05.024 52d compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/03-11:38:05.024 52d Delete type=2 #7
+2023/06/03-11:38:05.024 52d Delete type=2 #10
+2023/06/03-11:38:05.024 52d Delete type=2 #12
+2023/06/03-11:38:05.024 52d Delete type=2 #14
+2023/06/03-11:38:05.024 52d Delete type=2 #16
+2023/06/03-11:57:19.482 52e Level-0 table #19: started
+2023/06/03-11:57:19.507 52e Level-0 table #19: 112634 bytes OK
+2023/06/03-11:57:19.521 52e Delete type=0 #15
+2023/06/03-12:09:46.988 52d Level-0 table #21: started
+2023/06/03-12:09:47.003 52d Level-0 table #21: 111944 bytes OK
+2023/06/03-12:09:47.015 52d Delete type=0 #18
+2023/06/03-12:24:51.157 615 Level-0 table #23: started
+2023/06/03-12:24:51.182 615 Level-0 table #23: 130028 bytes OK
+2023/06/03-12:24:51.197 615 Delete type=0 #20

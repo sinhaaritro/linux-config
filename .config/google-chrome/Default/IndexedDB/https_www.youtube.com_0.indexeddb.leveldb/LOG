@@ -1,0 +1,30 @@
+2023/06/03-06:04:45.534 52d Reusing MANIFEST /home/arco/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/03-06:04:45.534 52d Recovering log #4
+2023/06/03-06:04:45.556 52d Reusing old log /home/arco/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/06/03-06:09:43.357 52e Level-0 table #8: started
+2023/06/03-06:09:45.435 52e Level-0 table #8: 1122361 bytes OK
+2023/06/03-06:09:45.461 52e Delete type=0 #4
+2023/06/03-06:10:10.299 52e Compacting 1@1 + 1@2 files
+2023/06/03-06:10:10.337 52e Generated table #9@1: 339 keys, 49175 bytes
+2023/06/03-06:10:10.337 52e Compacted 1@1 + 1@2 files => 49175 bytes
+2023/06/03-06:10:10.356 52e compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/03-06:10:10.356 52e Delete type=2 #5
+2023/06/03-06:10:10.356 52e Delete type=2 #8
+2023/06/03-06:44:28.844 52e Level-0 table #11: started
+2023/06/03-06:44:28.950 52e Level-0 table #11: 1354793 bytes OK
+2023/06/03-06:44:28.968 52e Delete type=0 #7
+2023/06/03-06:45:06.868 52e Compacting 1@1 + 1@2 files
+2023/06/03-06:45:06.896 52e Generated table #12@1: 465 keys, 44261 bytes
+2023/06/03-06:45:06.896 52e Compacted 1@1 + 1@2 files => 44261 bytes
+2023/06/03-06:45:06.910 52e compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/03-06:45:06.910 52e Delete type=2 #9
+2023/06/03-06:45:06.910 52e Delete type=2 #11
+2023/06/03-11:59:25.305 52e Level-0 table #14: started
+2023/06/03-11:59:25.407 52e Level-0 table #14: 1340399 bytes OK
+2023/06/03-11:59:25.421 52e Delete type=0 #10
+2023/06/03-12:08:58.832 52d Compacting 1@1 + 1@2 files
+2023/06/03-12:08:58.861 52d Generated table #15@1: 667 keys, 53929 bytes
+2023/06/03-12:08:58.862 52d Compacted 1@1 + 1@2 files => 53929 bytes
+2023/06/03-12:08:58.877 52d compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/03-12:08:58.877 52d Delete type=2 #12
+2023/06/03-12:08:58.877 52d Delete type=2 #14

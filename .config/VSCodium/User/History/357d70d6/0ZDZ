@@ -1,0 +1,4 @@
+
+#moving your personal files and folders from /personal to ~
+#alias personalsave='cp -Rf /personal/* ~'
+#alias personalload='cp -Rf /personal/* ~'

@@ -1,0 +1,109 @@
+.plb .tooltip {
+  position: relative;
+  cursor: pointer;
+}
+
+.plb .tooltip .popup {
+  /* display: none; */
+  display: flex !important;
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+  top: 1.7em;
+  right: 1.5em;
+  width: 300px;
+  transition: cubic-bezier(0, 0, 0.2, 1) 0.25s;
+  z-index: 1;
+}
+.plb .tooltip .popup .content {
+  background: #fff;
+  margin: 1em;
+  width: 100%;
+  text-align: left;
+  box-shadow: 0 0 7px -2px #000;
+  border-radius: 12px;
+  padding: 1em 1.2em;
+  display: flex;
+  flex-flow: column;
+  flex-wrap: wrap;
+  align-items: end;
+}
+.plb .tooltip .popup h2 {
+  margin: 0;
+}
+
+.plb .tooltip .popup button {
+  margin: 1em 0 0;
+  float: right;
+  background: darkslategray;
+  border: none;
+  border-radius: 7px;
+}
+
+.plb .tooltip:hover .popup,
+.plb .tooltip:focus .popup,
+.plb .tooltip:active .popup {
+  /* display: flex !important; */
+  opacity: 100;
+  visibility: visible;
+}
+
+.plb .icon svg,
+.plb .not-present {
+  border: 1px solid grey;
+  border-radius: 35%;
+  padding: 0.2em;
+  /* zoom: 1.2; */
+  height: 21px;
+  width: 21px;
+  transition: cubic-bezier(0, 0, 0.2, 1) 0.25s;
+}
+.plb .not-present {
+  text-align: center;
+  font-weight: bold;
+  color: grey;
+}
+.plb .tooltip:hover .icon svg {
+  border-color: green;
+}
+
+/* td.plb {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5em;
+} */
+td.plb {
+  padding: 0 !important;
+}
+td.plb > div {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5em;
+  padding: 10px 12px;
+}
+td.plb.priceAction > div,
+th.plb.priceAction {
+  /* background-color: lightgoldenrodyellow; */
+  /* background-color: #fafad2bf; */
+  background-color: rgba(250, 250, 210, 0.37);
+}
+td.plb.riskProfile > div,
+th.plb.riskProfile {
+  /* background-color: lightpink; */
+  background-color: rgba(255, 182, 193, 0.37);
+}
+td.plb.fundamentals > div,
+th.plb.fundamentals {
+  background-color: rgba(173, 216, 230, 0.37);
+}
+.holdings-table .data-table tr {
+  height: 1px;
+}
+.holdings-table .data-table td {
+  height: inherit;
+}
+.holdings-table .data-table td > div {
+  height: 65%;
+  /* height: 100%; */
+  height: -webkit-fill-available;
+}

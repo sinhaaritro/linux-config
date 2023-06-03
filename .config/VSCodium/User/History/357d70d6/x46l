@@ -1,0 +1,9 @@
+
+#moving your personal files and folders from /personal to ~
+#alias personalload='cp -Rf /personal/* ~'
+
+#moving your personal files and folders from ~ to /personal
+alias personalsave='cp -Rf ~/. /personal'
+
+# Changed permission of the ./personal folder
+#sudo chmod 777 ../../personal

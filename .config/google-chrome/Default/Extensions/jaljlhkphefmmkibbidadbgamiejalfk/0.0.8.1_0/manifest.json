@@ -1,0 +1,33 @@
+{
+   "action": {
+      "default_icon": "assets/logo.png",
+      "default_popup": "index.html",
+      "default_title": "Reckon.live"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "css": [ "assets/content.css" ],
+      "js": [ "scripts/zerodha.content.js" ],
+      "matches": [ "https://kite.zerodha.com/*" ]
+   } ],
+   "description": "We make institutional portfolio management techniques available to you as personalized recommendations.",
+   "host_permissions": [ "https://kite.zerodha.com/*", "https://api.reckon.live/*" ],
+   "icons": {
+      "128": "assets/logo.ico",
+      "16": "assets/logo.ico",
+      "32": "assets/logo.ico",
+      "48": "assets/logo.ico"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgQwwyaI0tlfT6JokWZ80bjL4LKx0cOelArmCoyEgefQxlEsjisJQ+14W+PTZ8yl6jGi/q0h2V9W98aQwqgdWrTRkjPIOTm3rgeXIYShgbE0M3R7nsO/xVh7jV6wBvQnA3dkQWrbDALbk2m/Q7J48EuP5GYy4KZDuW3VhW8IpbS0ywtEjA3OPXhbMW4THPXX21wx+unvkcSPPRX85Imdexr5G+W7hq8ygvzymUdPw+zdRi0IwxsX2y51RlURy0ja6j8sUWpEX9szWMkUcFZ2MIbuPK/7qL/35z1C5kmOd+j4otx5rQRsRjDBak8mlnxv/U8nKIGEB+GTcHiXNTqp6KQIDAQAB",
+   "manifest_version": 3,
+   "name": "Reckon Portfolio Manager",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.8.1",
+   "web_accessible_resources": [ {
+      "matches": [ "https://kite.zerodha.com/*" ],
+      "resources": [ "assets/bookmark.png", "assets/play.png", "assets/delete.png", "assets/save.png" ]
+   } ]
+}

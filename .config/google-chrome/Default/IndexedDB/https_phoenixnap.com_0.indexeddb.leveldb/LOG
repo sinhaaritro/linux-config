@@ -1,0 +1,7 @@
+2023/06/03-10:29:42.105 52d Reusing MANIFEST /home/arco/.config/google-chrome/Default/IndexedDB/https_phoenixnap.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/03-10:29:42.105 52d Recovering log #3
+2023/06/03-10:29:42.105 52d Reusing old log /home/arco/.config/google-chrome/Default/IndexedDB/https_phoenixnap.com_0.indexeddb.leveldb/000003.log 
+2023/06/03-10:30:13.786 52e Level-0 table #5: started
+2023/06/03-10:30:13.796 52e Level-0 table #5: 25458 bytes OK
+2023/06/03-10:30:13.809 52e Delete type=0 #3
+2023/06/03-10:30:13.809 52e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

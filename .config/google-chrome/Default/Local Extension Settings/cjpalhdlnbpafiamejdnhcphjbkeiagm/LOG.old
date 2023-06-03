@@ -1,0 +1,17 @@
+2023/06/02-16:47:42.114 626 Creating DB /home/arco/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
+2023/06/02-16:47:42.196 626 Reusing MANIFEST /home/arco/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/06/02-16:47:43.795 614 Level-0 table #5: started
+2023/06/02-16:47:43.942 614 Level-0 table #5: 1514234 bytes OK
+2023/06/02-16:47:43.989 614 Delete type=0 #3
+2023/06/02-16:48:03.637 625 Level-0 table #7: started
+2023/06/02-16:48:03.798 625 Level-0 table #7: 1781320 bytes OK
+2023/06/02-16:48:03.840 625 Delete type=0 #4
+2023/06/02-16:48:06.457 625 Level-0 table #9: started
+2023/06/02-16:48:06.603 625 Level-0 table #9: 1850024 bytes OK
+2023/06/02-16:48:06.631 625 Delete type=0 #6
+2023/06/02-16:48:21.900 611 Level-0 table #11: started
+2023/06/02-16:48:22.023 611 Level-0 table #11: 1679312 bytes OK
+2023/06/02-16:48:22.044 611 Delete type=0 #8
+2023/06/02-16:50:32.440 611 Level-0 table #13: started
+2023/06/02-16:50:32.627 611 Level-0 table #13: 2945265 bytes OK
+2023/06/02-16:50:32.649 611 Delete type=0 #10
